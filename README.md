@@ -2,22 +2,10 @@
 
 ***
 
-> This is a first blockqute
->     > This is a second blockqute
->         > This is a third blockqute
-
-***
-
-+ plus
-  - minus
-    + plus
-
-***
-
 <pre><code>
 public class helloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World");
+    System.out.println("Hello, users!");
   }
 }
 </code></pre>
@@ -32,11 +20,11 @@ __굵음__
 *기울임*    
 
 ### To Do List 
-- [ ] 기존 서비스 복사하기
-- [ ] 깃허브 생성 
-- [ ] 실습
-  - [ ] 1. 마크다운 
-  - [x] 2. 테이블 생성 
+- [ ] Java 
+- [ ] Spring 
+- [ ] SQL 
+  - [ ] 1. 
+  - [x] 2. 
 
 ### Table 
 
