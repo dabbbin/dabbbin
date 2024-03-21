@@ -5,14 +5,13 @@
 <pre><code>
 public class helloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, users!");
+    System.out.println("Hello, My name is dabin!");
   }
 }
 </code></pre>
 
 ***
 
-사용문법 : [Title] 적용 예 : [Google](https://www.google.co.kr/, "Google Link")
 ***
 __굵음__   
 ~~취소선~~   
@@ -20,11 +19,11 @@ __굵음__
 *기울임*    
 
 ### To Do List 
-- [ ] Java 
+- [x] Java 
 - [ ] Spring 
 - [ ] SQL 
   - [ ] 1. 
-  - [x] 2. 
+ 
 
 ### Table 
 
@@ -36,15 +35,15 @@ __굵음__
 
 # 👊 개발자 인적사항
 --- 
-🏫 컴퓨터공학부 202402 졸업 
+🏫 컴퓨터공학부 2024_02 졸업 
 📧 rhkahrake100@naver.com 
 
 ## ✒️ 한 줄 소개 
 ---
+프로성취러, 자바 백엔드 개발자! 
 
 
-
-### 🕰️ 개발 기간
+### 🕰️ 커리어 
 --- 
 - 22.04.26 - 22.05.24
 
