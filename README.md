@@ -19,10 +19,11 @@ __굵음__
 *기울임*    
 
 ### To Do List 
-- [x] Java 
+- [x] Java
+  - [ ]  
 - [ ] Spring 
 - [ ] SQL 
-  - [ ] 1. 
+
  
 
 ### Table 
