@@ -35,7 +35,7 @@ public class helloWorld {
 📧 *rhkahrake100@naver.com*
 
 --- 
-### ⚙️ 개발 언어 및 환경 
+### ⚙️ SKILL & Setting 
 
 
 | Language | IDE | Framwork | 
@@ -60,20 +60,4 @@ public class helloWorld {
 
 
 --- 
-### 📋 프로젝트 정보 
-
- - 수영강습관리 관리자용 프로그램(DB 프로그래밍)
-    - 
- - JSP 프로그래밍
- - Django 프로그래밍
- - 주식 거래 시스템 
-
---- 
-### 🥇 To Do List  
-
-- [x] 정보처리기사 
-- [ ] SQLD
-- [ ] 개발자 컨퍼런스 INFCON
-  - [ ] 강의하기  
-  - [x] 참가하기    
 
