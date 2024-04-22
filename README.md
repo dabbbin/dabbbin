@@ -11,7 +11,7 @@ public class helloWorld {
 </code></pre>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabbbin&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabbbin&show_icons=true&theme=transparent&count_private=true)
 ***  
 
 # 👊 CAREER 
@@ -37,27 +37,20 @@ public class helloWorld {
 --- 
 ### ⚙️ SKILL & Setting 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabbbin&hide=html,php&&layout=compact)
 
 | Language | IDE | Framwork | 
 |-----|-----|-----|
 |<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> | <img alt="intellijidea" src ="https://img.shields.io/badge/intellij-007396.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000"/> | <img alt="spring" src ="https://img.shields.io/badge/spring-007396.svg?&style=for-the-badge&logo=spring&logoColor=white"/> | 
 
 
-- Java 17
-- JDK 17.0.10
-- IDE : Intellij IDEA 2023.3.4 x64 
-- Framwork : Spring
-- ORM : Mybatix
-
-
 | Language | IDE | Framwork | 
 |-----|-----|-----|
 |<img alt="python" src ="https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=python&logoColor=white"/> | <img alt="visualstudio" src ="https://img.shields.io/badge/visualstudio-007396.svg?&style=for-the-badge&logo=visualstudio&logoColor=#5C2D91"/>  | <img alt="django" src ="https://img.shields.io/badge/django-007396.svg?&style=for-the-badge&logo=django&logoColor=#092E20"/> 
 
-- Python 
-- IDE : VsCode  
-- Framwork : Django 
-
 
 --- 
+Project 
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)
 
