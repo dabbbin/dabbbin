@@ -17,8 +17,8 @@ public class helloWorld {
 # 👊 CAREER 
 
 🏫 __컴퓨터공학부 소프트웨어전공__  졸업  
-🔐 한국정보보호산업협회 **정보보안전문가** 양성 과정 수료    
-🚴‍♀️ 신세계 I&C **JAVA 백엔드** 개발자 과정 수료ing...  
+🔐 [한국정보보호산업협회 **정보보안전문가** 양성 과정 수료](https://therapeutic-watcher-a7e.notion.site/1644ca7f18d348b3adce4ae89b66835f?pvs=4)  
+🚴‍♀️ [신세계 I&C **JAVA 백엔드** 개발자 과정 수료ing...](https://www.notion.so/coffit23/2ef0f47261004d6a8e812e1322d70677?v=26407591368e4980a302ed8756004010)  
 
 ### [:accessibility: 이력서](https://therapeutic-watcher-a7e.notion.site/KIM-DA-BIN-57ffd32e224543e99d2848d536b7d23e?pvs=4)
 --- 
