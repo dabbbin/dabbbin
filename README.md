@@ -53,5 +53,6 @@ public class helloWorld {
 --- 
 ### 🤯 Project 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/ssg-240304-java2/OOP-BBIC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/dabbbin/OOP-BBIC)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/dabbbin/OOP-BBIC)
