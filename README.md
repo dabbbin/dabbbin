@@ -24,8 +24,11 @@ public class helloWorld {
 --- 
 ## ✒️ Let me introduce myself
 
-***프로성취러, Java Back-End 개발자!***
+***프로성취러, Java Back-End 개발자!*** 
 
+
+**Beyond Needs and Wants on UserZ**
+*🌟사용자의 '니즈'를 넘어선 '원츠'를 개발합니다.*
 
 
 🖋️ [velog](https://velog.io/@dabbbin/posts)
@@ -54,7 +57,9 @@ public class helloWorld {
 --- 
 ### 🤯 Project 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/dabbbin/OOP-BBIC)        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OpenForum)](https://github.com/dabbbin/OpenForum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/dabbbin/OOP-BBIC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OpenForum)](https://github.com/dabbbin/OpenForum)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=DB-HeadBang)](https://github.com/dabbbin/DB-HeadBang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=Swim_Admin)](https://github.com/dabbbin/Swim_Admin)
