@@ -45,8 +45,8 @@ public class helloWorld {
 
 | Language | IDE | Framwork | 
 |-----|-----|-----|
-|<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> | <img alt="intellijidea" src ="https://img.shields.io/badge/intellij-007396.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000"/> | <img alt="spring" src ="https://img.shields.io/badge/spring-007396.svg?&style=for-the-badge&logo=spring&logoColor=white"/> | 
-|<img alt="python" src ="https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=python&logoColor=white"/> | <img alt="visualstudio" src ="https://img.shields.io/badge/visualstudio-007396.svg?&style=for-the-badge&logo=visualstudio&logoColor=#5C2D91"/>  | <img alt="django" src ="https://img.shields.io/badge/django-007396.svg?&style=for-the-badge&logo=django&logoColor=#092E20"/> 
+|<img alt="Java" src ="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=Java&logoColor=white"/> | <img alt="intellijidea" src ="https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000"/> | <img alt="spring" src ="https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white"/> | 
+|<img alt="C#" src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&style=flat"/> | <img alt="visualstudio" src ="https://img.shields.io/badge/visualstudio-000000.svg?&style=for-the-badge&logo=visualstudio&logoColor=#5C2D91"/>  | <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-000000.svg?&style=for-the-badge&logo=Oracle&logoColor=#092E20"/> 
 
 
 
