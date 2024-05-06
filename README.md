@@ -24,10 +24,11 @@ public class helloWorld {
 --- 
 ## ✒️ Let me introduce myself
 
-***프로성취러, Java Back-End 개발자!*** 
+***What User want, Java Back-End 개발자!*** 
 
 
-**Beyond Needs and Wants on UserZ**
+**Beyond Needs and Wants on User**
+
 *🌟사용자의 '니즈'를 넘어선 '원츠'를 개발합니다.*
 
 
