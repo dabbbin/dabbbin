@@ -1,5 +1,4 @@
-### 😄 HI, Dabin World!!!  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=0019CF&width=435&lines=😄+HI+!+Dabin+World+!+!+!)](https://git.io/typing-svg)
 ***
 
 <pre><code>
