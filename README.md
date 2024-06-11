@@ -16,18 +16,17 @@ public class helloWorld {
 # 👊 CAREER 
 
 🏫 __컴퓨터공학부 소프트웨어전공__  졸업  
-🔐 [한국정보보호산업협회 **정보보안전문가** 양성 과정 수료](https://therapeutic-watcher-a7e.notion.site/1644ca7f18d348b3adce4ae89b66835f?pvs=4)  
 🚴‍♀️ 신세계 I&C **JAVA 백엔드** 개발자 과정 수료ing...
 
 ### [:accessibility: Info](https://therapeutic-watcher-a7e.notion.site/KIM-DA-BIN-57ffd32e224543e99d2848d536b7d23e?pvs=4)
 --- 
 ## ✒️ Let me introduce myself
 
-***What User want, Java Back-End 개발자!*** 
+#### Why??? 끊임없이 이유를 찾습니다. 
+
+#### Improve!! growth!!  항상 성장합니다. 
 
 🖋️ [velog](https://velog.io/@dabbbin/posts)
-
-
 
 
 --- 
