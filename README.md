@@ -25,12 +25,6 @@ public class helloWorld {
 
 ***What User want, Java Back-End 개발자!*** 
 
-
-**Beyond Needs and Wants on User**
-
-*🌟사용자의 '니즈'를 넘어선 '원츠'를 개발합니다.*
-
-
 🖋️ [velog](https://velog.io/@dabbbin/posts)
 
 
