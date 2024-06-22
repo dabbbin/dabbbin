@@ -9,8 +9,9 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.awt.*;
 import java.io.IOException;
+import java.util.ArrayList;
 
-@WebServlet("mem.do")
+@WebServlet("/mem.do")
 public class MemberController extends HttpServlet {
     private static final long serialVersionID =1L;
     MemberDAO memberDAO;
@@ -30,7 +31,7 @@ public class MemberController extends HttpServlet {
     protected void doHandle(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.setCharacterEncoding("UTF-8");
         resp.setContentType("text/html;charset=UTF-8");
-        List memberList = memberDAO.ListMembers();
+        ArrayList<MemberDTO> memberList = memberDAO.ListMembers();
         req.setAttribute("memberList", memberList);
         RequestDispatcher dispatcher = req.getRequestDispatcher("/WEB-INF/views/member.jsp");
         dispatcher.forward(req, resp);

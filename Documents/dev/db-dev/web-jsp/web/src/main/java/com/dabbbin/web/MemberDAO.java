@@ -30,8 +30,8 @@ public class MemberDAO {
 
     }
 
-    public List ListMembers() {
-        List memberList = new List();
+    public ArrayList<MemberDTO> ListMembers() {
+        ArrayList<MemberDTO> memberList = new ArrayList<>();
 
         try {
             conn = dataFactory.getConnection();
@@ -43,7 +43,8 @@ public class MemberDAO {
             while (rs.next()) {
                 String name = rs.getString("name");
                 String email = rs.getString("email");
-                MemberDTO member = new MemberDTO(name, email);
+                String joinDate = rs.getString("joinDate");
+                MemberDTO member = new MemberDTO(name, email, joinDate);
                 memberList.add(member);
             }
 
@@ -55,5 +56,26 @@ public class MemberDAO {
             e.printStackTrace();
         }
         return memberList;
+    }
+
+    public void addMember(MemberDTO member) {
+        try {
+            conn = dataFactory.getConnection();
+            String name = member.getName();
+            String email = member.getEmail();
+            String query = "insert into member(name, email) values(?,?)";
+            System.out.println(query);
+            psmt = conn.prepareStatement(query);
+            psmt.setString(1, name);
+            psmt.setString(2, email);
+            psmt.executeUpdate();
+            psmt.close();
+            conn.close();
+
+
+        } catch (SQLException e) {
+                e.printStackTrace();
+        }
+
     }
 }
