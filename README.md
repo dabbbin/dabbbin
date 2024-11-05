@@ -27,7 +27,7 @@ public class helloWorld {
 #### Improve!! growth!!  항상 성장합니다. 
 
 🖋️ [velog](https://velog.io/@dabbbin/posts)
-🖋️ [tistory](https://jumangnani.tistory.com/)
+🖋️ [tistory](https://hi-my-name-is.tistory.com/)
 
 --- 
 ### 🕰️ INFORMATION 
