@@ -4,7 +4,7 @@
 <pre><code>
 public class DabinWorld {
   public static void main(String[] args) {
-    System.out.println("안녕하세요, 하루 하루 성장하고 있는 1년차 개발자 김다빈입니다. ");
+    System.out.println("안녕하세요, 하루하루 성장하고 있는 1년차 개발자 김다빈입니다. ");
   }
 }
 </code></pre>
@@ -15,8 +15,9 @@ public class DabinWorld {
 
 # 👊 CAREER 
 
-🏫 __컴퓨터공학부 소프트웨어전공__  졸업  
-🚴‍♀️ ERP 개발 2024.07 ~ 
+🏫 __삼육대학교 컴퓨터공학부 소프트웨어전공__  (2024.02 졸업)   
+🚴‍♀️ __대양그룹 전략기획실 전산팀__ 재직중 (2024.07 ~ 재직중)    
+   - 제지/판지 부문 법인 ERP 웹 개발 및 유지보수 
 
 ### [:accessibility: Info](https://therapeutic-watcher-a7e.notion.site/KIM-DA-BIN-57ffd32e224543e99d2848d536b7d23e?pvs=4)
 --- 
