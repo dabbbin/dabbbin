@@ -2,9 +2,9 @@
 ***
 
 <pre><code>
-public class helloWorld {
+public class DabinWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, My name is dabin!");
+    System.out.println("안녕하세요, 하루 하루 성장하고 있는 1년차 개발자 김다빈입니다. ");
   }
 }
 </code></pre>
