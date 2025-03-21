@@ -4,7 +4,7 @@
 <pre><code>
 public class DabinWorld {
   public static void main(String[] args) {
-    System.out.println("안녕하세요, 하루하루 성장하고 있는 1년차 개발자 김다빈입니다. ");
+    System.out.println("남의 코드 지적하기 전에 나의 코드를 되돌아보자 ");
   }
 }
 </code></pre>
@@ -16,16 +16,16 @@ public class DabinWorld {
 # 👊 CAREER 
 
 🏫 __삼육대학교 컴퓨터공학부 소프트웨어전공__ 졸업 (2024.02)   
-🚴‍♀️ __대양그룹 전략기획실 전산팀__ 재직중 (2024.07 ~ 재직중)    
+🚴‍♀️ __대양그룹 전산팀__ 재직중 (2024.07 ~ 재직중)    
    - 제지/판지 부문 법인 ERP 웹 개발 및 유지보수 
 
 ### [:accessibility: Info](https://therapeutic-watcher-a7e.notion.site/KIM-DA-BIN-57ffd32e224543e99d2848d536b7d23e?pvs=4)
 --- 
 ## ✒️ Let me introduce myself
 
-#### Why??? 끊임없이 이유를 찾습니다. 
+#### 에러의 정확한 요인이 무엇인가?  
 
-#### Improve!! growth!!  항상 성장합니다. 
+#### 문제를 해결하는 방법을 필사적으로 찾습니다. 
 
 🖋️ [velog](https://velog.io/@dabbbin/posts)
 🖋️ [tistory](https://hi-my-name-is.tistory.com/)
@@ -33,7 +33,7 @@ public class DabinWorld {
 --- 
 ### 🕰️ INFORMATION 
 
-📧 *rhkahrake100@naver.com*
+📧 *duxbix@naver.com*
 
 --- 
 ### ⚙️ SKILL & Setting 
