@@ -16,8 +16,6 @@ public class DabinWorld {
 # 👊 CAREER 
 
 🏫 __삼육대학교 컴퓨터공학부 소프트웨어전공__ 졸업 (2024.02)   
-🚴‍♀️ __대양그룹 전산팀__ 재직중 (2024.07 ~ 재직중)    
-   - 제지/판지 부문 법인 ERP 웹 개발 및 유지보수 
 
 ### [:accessibility: Info](https://therapeutic-watcher-a7e.notion.site/KIM-DA-BIN-57ffd32e224543e99d2848d536b7d23e?pvs=4)
 --- 
